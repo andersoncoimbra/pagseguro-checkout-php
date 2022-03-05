@@ -1,0 +1,12 @@
+{
+    "name": "andersoncoimbra/pagseguro-checkout",
+    "description": "checkout do pagseguro",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Anderson Coimbra",
+            "email": "andersonmegax@hotmail.com"
+        }
+    ],
+    "require": {}
+}
